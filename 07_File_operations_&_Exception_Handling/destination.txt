@@ -1,0 +1,7 @@
+Hello World!
+this is a new line.Append operation taking place!
+Python is cool.
+Append operation taking place!
+Python is cool.First line 
+Second line 
+Third line
